@@ -1,0 +1,22 @@
+RIESGOS DEL PROYECTO
+
+RIESGOS TECNICOS
+	- Errores no detectados durante la fase pruebas.
+	- Comportamiento inusual que no se haya previsto bajo ciertas condiciones.
+	- El programa se ejecuta solo con ciertas funciones.
+	- El programa no cumple con el proposito deseado o da resultados inexactos.
+	
+
+RIESGO ORGANIZACIONAL
+	- Solo se termine el programa de manera parcial por mala estimacion de tiempo.
+	- Mala gestion o estimacion de tiempo mermando en algun aspecto o funcion del proyecto.
+	- Subestimar la dificultad del proyecto en la elaboracion de los aspectos de este mismo.
+	
+RIEGO EXTERNO
+	- Presentacion de algun evento de fuerza mayor.
+	- Equipo o herramientas de trabajo dejen de funcionar de manera inesperada.
+	- Borrar el repositorio por descuido y carecer de respaldo.
+	
+#########@ Irazoqui Leaños Jesus Andres N.C. 17441222 @#############
+
+#######    ITLM    #######
