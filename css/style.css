@@ -1,0 +1,9 @@
+.main{
+    font-family:'Roboto', sans-serif;
+    text-align: center;
+}
+
+#calendario{
+    width: 400px;
+    height: 400px;
+}
